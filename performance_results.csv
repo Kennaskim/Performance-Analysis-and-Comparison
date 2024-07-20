@@ -1,0 +1,11 @@
+Algorithm,Dataset Size,Time (seconds)
+Quick Sort,1000,9.524E-4
+Quick Sort,100000,0.0417985
+Quick Sort,1000000,0.2808841
+Merge Sort,1000,0.0067172
+Merge Sort,100000,0.2744651
+Merge Sort,1000000,0.8877111
+Heap Sort,1000,0.001142
+Heap Sort,100000,0.089356
+Heap Sort,1000000,0.5336747
+Bubble Sort,1000,0.0165486
